@@ -63,7 +63,7 @@ GPLv2 or later (same as WordPress)
 ---
 
 **Developed by Amir Saman Pirayeshfar**  
-Website: https://home-visa.ir  
+Website: https://cafegardee.ir  
 Support & customizations available
 
 ❤️ If you like this plugin, please give it a star!
